@@ -1,12 +1,12 @@
-### Hey everyone!👋 Kush Shah - my official name! 🙂 
+## Hey everyone!👋 Kush Shah - my official name! 🙂 
 {If you think you have a better name, let me know about it!}
 
 By the way, currently pursuing my BTech degree in Computer Science and Engineering - the digital world of 0s and 1s. I wish to once work at the Wall Street. Yeah you heard me right. My best quality is to adapt the new quickly. If there's something you feel like is nor there in my portfolio, please let me know about that. I am looking forward to add it in my wish list. Have tried out so many things - <b>Graphics designing to UX designinig, core coding to marketing, machine learning to data science, cloud technology to cryptocurrencies, cryptography to what not</b>. 
 
 
-# By the way I don't like the normal "NORMAL". DIFFERENT is my normal "NORMAL".
+### By the way I don't like the normal "NORMAL". DIFFERENT is my normal "NORMAL".
 
-# Wanted to know more about me here are few things on the plate. 
+### Wanted to know more about me here are few things on the plate. 
 
 - 🔭 Currently exploring more about <b>Computational Finance</b>
 - 🌱 Checking out about the Financial Services domains using the technical skills in CS background.
@@ -19,5 +19,5 @@ By the way, currently pursuing my BTech degree in Computer Science and Engineeri
 - ⚡ <b>Fun Fact</b>: Can facts be funny or we force them to be??
 
 
-# Let me share a secret with you: [ksencs83w9cw3bi38f40w3903wn30nc983bf384b2309bw390wf4b39820h29fb293043740f3ww03hfw3f3h2023f28w032u2bd0q39uf983wyhfwbf48yw3dwy3938y98seb93f82ww98bfw83w38ybwf983yw98y39bw83yw93bw3]
+### Let me share a secret with you: [ksencs83w9cw3bi38f40w3903wn30nc983bf384b2309bw390wf4b39820h29fb293043740f3ww03hfw3f3h2023f28w032u2bd0q39uf983wyhfwbf48yw3dwy3938y98seb93f82ww98bfw83w38ybwf983yw98y39bw83yw93bw3]
 By the way, it is a hard core secret so have encrypted it. So it is not just tough to decrypt but near to impossible. 😀
