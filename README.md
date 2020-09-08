@@ -19,5 +19,7 @@ By the way, currently pursuing my BTech degree in Computer Science and Engineeri
 - ⚡ <b>Fun Fact</b>: Can facts be funny or we force them to be??
 
 
-### Let me share a secret with you: [ksencs83w9cw3bi38f40w3903wn30nc983bf384b2309bw390wf4b39820h29fb293043740f3ww03hfw3f3h2023f28w032u2bd0q39uf983wyhfwbf48yw3dwy3938y98seb93f82ww98bfw83w38ybwf983yw98y39bw83yw93bw3]
+### Let me share a secret with you:              
+ksencs83w9cw3bi38f40w3903wn30nc983bf384b2309bw390wf4b39820h29fb293043740f3ww03hfw3f3h2023f28w032u2bd0q39uf983wyhfwbf48yw3dwy3938y98seb93f82ww98bfw83w38ybwf983yw98y39bw83yw93bw3
+
 By the way, it is a hard core secret so have encrypted it. So it is not just tough to decrypt but near to impossible. 😀
