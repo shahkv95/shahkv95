@@ -6,6 +6,8 @@ By the way, currently pursuing my BTech degree in Computer Science and Engineeri
 
 ### By the way I don't like the normal "NORMAL". DIFFERENT is my normal "NORMAL".
 
+![Kush's github stats](https://github-readme-stats.vercel.app/api?username=shahkv95&show_icons=true&theme=algolia)
+
 ### Wanted to know more about me here are few things on the plate. 
 
 - 🔭 Currently exploring more about <b>Computational Finance</b>
@@ -18,8 +20,10 @@ By the way, currently pursuing my BTech degree in Computer Science and Engineeri
 - 🆘 If <b>emails</b> are what you are more comfortable with, then I think you would like to drop a mail at [my email id](kushlinkedin@gmail.com)
 - ⚡ <b>Fun Fact</b>: Can facts be funny or we force them to be??
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahkv95&langs_count=8&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Let me share a secret with you:              
 ksencs83w9cw3bi38f40w3903wn30nc983bf384b2309bw390wf4b39820h29fb293043740f3ww03hfw3f3h2023f28w032u2bd0q39uf983wyhfwbf48yw3dwy3938y98seb93f82ww98bfw83w38ybwf983yw98y39bw83yw93bw3
 
 By the way, it is a hard core secret so have encrypted it. So it is not just tough to decrypt but near to impossible. 😀
+
