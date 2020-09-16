@@ -6,7 +6,7 @@ By the way, currently pursuing my BTech degree in Computer Science and Engineeri
 
 ### By the way I don't like the normal "NORMAL". DIFFERENT is my normal "NORMAL".
 
-![Kush's github stats](https://github-readme-stats.vercel.app/api?username=shahkv95&show_icons=true&theme=algolia)
+
 
 ### Wanted to know more about me here are few things on the plate. 
 
