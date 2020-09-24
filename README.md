@@ -1,5 +1,5 @@
 ## Hey everyone!👋 Kush Shah - my official name! 🙂 
-{If you think you have a better name, let me know about it!}
+{If you think you have a better name for me, let me know about it!}
 
 By the way, currently pursuing my BTech degree in Computer Science and Engineering - the digital world of 0s and 1s. I wish to once work at the Wall Street. Yeah you heard me right. My best quality is to adapt the new quickly. If there's something you feel like is nor there in my portfolio, please let me know about that. I am looking forward to add it in my wish list. Have tried out so many things - <b>Graphics designing to UX designinig, core coding to marketing, machine learning to data science, cloud technology to cryptocurrencies, cryptography to what not</b>. 
 
