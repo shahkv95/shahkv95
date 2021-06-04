@@ -1,10 +1,4 @@
-## Hey everyone!👋 Kush Shah - my official name! 🙂 
-{If you think you have a better name for me, let me know about it!}
-
-Things that holded me to explore - <b>Graphics designing to UX designinig, core coding to marketing, machine learning to data science, cloud technology to cryptocurrencies, cryptography to few unmentioned</b>. 
-
-
-### By the way I don't like the normal "NORMAL". DIFFERENT is my normal "NORMAL".
+## Hey everyone! 🙂 
 
 ![Kush's github stats](https://github-readme-stats.vercel.app/api?username=shahkv95&show_icons=true&theme=algolia&count_private=true)
 
