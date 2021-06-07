@@ -2,7 +2,7 @@
 
 ![Kush's github stats](https://github-readme-stats.vercel.app/api?username=shahkv95&show_icons=true&theme=algolia&count_private=true)
 
-### Wanted to know more about me here are few things on the plate. 
+### Wanted to know more about me - here are few things on the plate. 
 
 - 🔭 Ongoing Major Project- Domain: <b>Computational Finance</b>
 - 👯 FinTech Enthu - one of the fav field 
