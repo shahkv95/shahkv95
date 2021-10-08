@@ -1,0 +1,1 @@
+Background color used for city svg - #0B0F17
