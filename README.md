@@ -1,4 +1,4 @@
-<img src="https://github.com/shahkv95/shahkv95/blob/master/images/Kush%20City%20final%203.gif">
+<img src="https://github.com/shahkv95/shahkv95/blob/master/images/Kush%20City%20for%20Github.gif">
 
 ![Kush's github stats](https://github-readme-stats.vercel.app/api?username=shahkv95&show_icons=true&theme=algolia&count_private=true)
 
