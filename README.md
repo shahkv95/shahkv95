@@ -7,10 +7,15 @@
 <img src = "https://github.com/shahkv95/shahkv95/blob/master/images/github_3d_contribution_graph.png">
 
 <hr>
+<div float="left">
+<img src="https://github-readme-stats.vercel.app/api?username=shahkv95&show_icons=true&theme=github_dark&count_private=true" alt="shahkv95" width="48%" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shahkv95&theme=dark" alt="shahkv95" width="48%" />
+</div>
+<hr>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahkv95&theme=darkhub&margin-w=15&no-bg=true&rank=S,SECRET,SSS,SS,AAA,AA,A,B" alt="shahkv95"/></a> </p>
 
-![Kush's github stats](https://github-readme-stats.vercel.app/api?username=shahkv95&show_icons=true&theme=algolia&count_private=true)
 
-### Wanted to know more about me - here are few things on the plate. 
+<hr>
+<h2> Below is the roadmap of the Kush City with address and other information: </h2>
 
 - :handshake: Previously worked with <a href = "https://www.barclays.co.uk/">Barclays UK - Data Platform and Business Intelligence team</a>
 - :computer: Currently working as a <b>Data Scientist</b> at <a href = "https://govimana.com/">MSI</a>
@@ -21,3 +26,4 @@
 - 🆘 If <b>emails</b> are what you are more comfortable with, then I think you would like to drop a mail at <a href="mailto:kushlinkedin@gmail.com" target="_blank">Kush email</a>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahkv95&langs_count=8&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) --> 
+
