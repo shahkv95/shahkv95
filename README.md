@@ -27,3 +27,6 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahkv95&langs_count=8&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) --> 
 
+<hr>
+
+<img src="https://github.com/shahkv95/shahkv95/blob/master/images/Kush%20City%20for%20Github.gif">
