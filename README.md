@@ -4,7 +4,7 @@
 
 <h2>2021 summary</h2>
 
-<img src = "https://github.com/shahkv95/shahkv95/blob/master/images/github_3d_contribution_graph.png">
+<img src = "https://github.com/shahkv95/shahkv95/blob/master/images/github_3d_contribution_graph2.png">
 
 <hr>
 <div float="left">
