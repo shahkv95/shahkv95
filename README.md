@@ -29,4 +29,4 @@
 
 <hr>
 
-<img src="https://github.com/shahkv95/shahkv95/blob/master/images/Kush%20City%20for%20Github.gif">
+<img src="https://github.com/shahkv95/shahkv95/blob/master/images/Thank_you_for_visiting_KushCity.gif">
