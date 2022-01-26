@@ -4,7 +4,7 @@
 
 <h2>2021 summary</h2>
 
-<img src = "images/git_contrib_graph_updated.png">
+<img src = "images/github.png">
 
 <hr>
 <div float="left">
