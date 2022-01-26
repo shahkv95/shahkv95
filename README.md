@@ -11,7 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shahkv95&show_icons=true&theme=github_dark&count_private=true" alt="shahkv95" width="48%" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shahkv95&theme=dark" alt="shahkv95" width="48%" />
 </div>
 <hr>
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahkv95&theme=darkhub&margin-w=15&no-bg=true&rank=S,SECRET,SSS,SS,AAA,AA,A,B" alt="shahkv95"/></a> </p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=shahkv95&theme=darkhub&margin-w=15&no-bg=true&rank=S,SECRET,SSS,SS,AAA,AA,A,B" alt="shahkv95"/></p>
 
 
 <hr>
