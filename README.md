@@ -17,9 +17,9 @@
 <hr>
 <h2> Below is the roadmap of the Kush City with address and other information: </h2>
 
-- :computer: Previously worked with <a href = "https://www.barclays.co.uk/">Barclays UK - Data Platform and Business Intelligence team</a>
+- :computer: Previously worked with <a href = "https://www.barclays.co.uk/" target="_blank">Barclays UK - Data Platform and Business Intelligence team</a>
 - 🔭 Research project in <b>Computational Finance</b> with an intriguing interest in Fintech industry <!-- - 👯 -->
-- :paintbrush: I used to create some designs in my spare time. Your design reviews at <a href = "https://in.pinterest.com/kushshah253/port-f-o-l-i-o-pho-to-shop/">Pinterest</a>  would be valuable
+- :paintbrush: I used to create some designs in my spare time. Your design reviews at <a href = "https://in.pinterest.com/kushshah253/port-f-o-l-i-o-pho-to-shop/" target="_blank">Pinterest</a>  would be valuable
 - 📫 You can always find me at <a href="https://linkedin.com/in/kush-shah-5a771b169/" target="_blank">Linkedin</a>
 - 😄 Oh you wish to collaborate at Kaggle, ping me at <a href="https://www.kaggle.com/kushshah95" target="_blank">Kaggle</a>
 - 🆘 If <b>emails</b> are what you are more comfortable with, then I think you would like to drop a mail at <a href="mailto:kushlinkedin@gmail.com" target="_blank">Kush email</a>
