@@ -18,7 +18,7 @@
 <h2> Below is the roadmap of the Kush City with address and other information: </h2>
 
 - :handshake: Previously worked with <a href = "https://www.barclays.co.uk/">Barclays UK - Data Platform and Business Intelligence team</a>
-- :computer: Currently working as a <b>Data Scientist</b> at <a href = "https://govimana.com/">MSI</a>
+- :computer: Worked as a <b>Data Scientist</b> at <a href = "https://govimana.com/">MSI</a>
 - 🔭 Research project in <b>Computational Finance</b> with an intriguing interest in Fintech industry <!-- - 👯 -->
 - :paintbrush: I used to create some designs in my spare time. Your design reviews at <a href = "https://in.pinterest.com/kushshah253/port-f-o-l-i-o-pho-to-shop/">Pinterest</a>  would be valuable
 - 📫 You can always find me at <a href="https://linkedin.com/in/kush-shah-5a771b169/" target="_blank">Linkedin</a>
