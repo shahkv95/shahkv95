@@ -1,10 +1,10 @@
 <img src="https://github.com/shahkv95/shahkv95/blob/master/images/Kush%20City%20for%20Github.gif">
 
-<hr>
+<!-- <hr> -->
 
-<h2>2021 summary</h2>
+<!-- <h2>2021 summary</h2> -->
 
-<img src = "images/github.png">
+<!-- <img src = "images/github.png"> -->
 
 <hr>
 <div float="left">
